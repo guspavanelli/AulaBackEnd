@@ -1,0 +1,2 @@
+teste_ignore.txt
+node_modules
